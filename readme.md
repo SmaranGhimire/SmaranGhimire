@@ -5,7 +5,7 @@
 
 ## 🌐 Connect with Me:
 <p align="left">
-  <a href="https://instagram.com/_notzer_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/smaranghimire/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/smaran-ghimire-086b44349/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://smaranghimire.com.np" target="blank"><img align="center" src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" /></a>
 </p>
