@@ -6,7 +6,7 @@
 ## 🌐 Connect with Me:
 <p align="left">
   <a href="https://instagram.com/_notzer_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_notzer_" /></a>
-  <a href="https://www.linkedin.com/in/oshan-poudel-966172361/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="[https://www.linkedin.com/in/oshan-poudel-966172361/](https://www.linkedin.com/in/smaran-ghimire-086b44349/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://oshanpaudel.com.np" target="blank"><img align="center" src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" /></a>
 </p>
 
